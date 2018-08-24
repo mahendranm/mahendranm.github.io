@@ -1,0 +1,85 @@
+body {
+	max-width: 1280px !important;
+	color: #4C4C4C;
+	margin: 0 auto;
+	background-image: url(../image/bg.png);
+	background-size: cover;
+	font-family: 'Roboto', sans-serif;
+
+
+}
+
+#profile-info-container {
+	padding-top: 50px;
+}
+#hello {
+	padding-top: 50px;
+	font-size: 28px;
+	line-height: 1;
+}
+#profile-name {
+	line-height: 1;
+	font-size: 45px;
+	padding-bottom: 25px;
+}
+#profile-role {
+	font-size: 20px;
+	float: left;
+}
+#profile-role div {
+	padding: 5px 10px;
+	border: 1px solid #4C4C4C;
+	color: #3971FF;
+	float: left;
+}
+#profile-about {
+	font-size: 18px;
+	float: left;
+	padding-top: 44px;
+    padding-bottom: 30px;
+}
+#skills {
+	background: #fff;
+	padding:20px 0 30px 0;
+}
+#education{
+background: #fff;
+	padding:20px 0 30px 0;
+}
+#contact{
+background: #EAEBED;
+	padding:20px 0 30px 0;
+}
+
+#experience{
+background: #EAEBED;
+	padding:20px 0 30px 0;
+}
+#skills .progress {
+	height: 5px;
+	font-size: .75rem;
+	background-color: #bccaec;
+	margin: 10px 0 0 0;
+}
+#skills .progress-bar {
+	background-color: #3971FF;
+}
+.row.sec-body-row {
+	padding: 15px 50px 20px 50px;
+	font-size: 20px;
+}
+.sec-header {
+	font-size: 28px;
+	padding: 20px 50px 0 50px;
+}
+.title-highlighter {
+	float: left;
+	display: block;
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 25px;
+}
+span.inner-title {
+	
+	padding:0 0 10px 0;
+}
