@@ -39,7 +39,7 @@ emailModel = {
 
 
 $.ajax({
-url : "http://mahendranm.azurewebsites.net/api/emailsender/sendemail",
+url : "https://mahendranm.azurewebsites.net/api/emailsender/sendemail",
 type: "POST",
 data : emailModel,
 crossDomain : true,
